@@ -67,7 +67,7 @@
   "scripts": {
     "start": "node server.js",
     "build-example": "webpack",
-    "build-prod": "webpack --config webpack.prod.config.js",
+    "build": "webpack --config webpack.prod.config.js",
     "test": "jest",
     "lint": "tslint -p ."
   }
