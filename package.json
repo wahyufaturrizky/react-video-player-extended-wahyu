@@ -2,13 +2,13 @@
   "name": "react-video-player-extended",
   "version": "7.0.1",
   "description": "React HTML5 video providing functionality for marking and selecting frames, jumping back and forth between frames based on the fps.",
-  "author": "Amitt K Sharma",
+  "author": "Wahyu Fatur Rizki",
   "license": "MIT",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amittkSharma/react-video-player-extended.git"
+    "url": "https://github.com/wahyufaturrizky/react-video-player-extended-wahyu"
   },
   "keywords": [
     "react",
@@ -27,9 +27,9 @@
     "video player"
   ],
   "bugs": {
-    "url": "https://github.com/amittkSharma/react-video-player-extended/issues"
+    "url": "https://github.com/wahyufaturrizky/react-video-player-extended-wahyu/issues"
   },
-  "homepage": "https://github.com/amittkSharma/react-video-player-extended#readme",
+  "homepage": "https://github.com/wahyufaturrizky/react-video-player-extended-wahyu",
   "peerDependencies": {
     "react": ">=16.13.1",
     "react-dom": ">=16.13.1"
